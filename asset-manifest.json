@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/control-de-gastos/static/css/main.61c744dc.chunk.css",
+    "main.js": "/control-de-gastos/static/js/main.137498a6.chunk.js",
+    "main.js.map": "/control-de-gastos/static/js/main.137498a6.chunk.js.map",
+    "runtime-main.js": "/control-de-gastos/static/js/runtime-main.385ccf36.js",
+    "runtime-main.js.map": "/control-de-gastos/static/js/runtime-main.385ccf36.js.map",
+    "static/js/2.5bb3008c.chunk.js": "/control-de-gastos/static/js/2.5bb3008c.chunk.js",
+    "static/js/2.5bb3008c.chunk.js.map": "/control-de-gastos/static/js/2.5bb3008c.chunk.js.map",
+    "index.html": "/control-de-gastos/index.html",
+    "precache-manifest.96cd57929b02ddf9a41cb1af7aaf1b76.js": "/control-de-gastos/precache-manifest.96cd57929b02ddf9a41cb1af7aaf1b76.js",
+    "service-worker.js": "/control-de-gastos/service-worker.js",
+    "static/css/main.61c744dc.chunk.css.map": "/control-de-gastos/static/css/main.61c744dc.chunk.css.map",
+    "static/js/2.5bb3008c.chunk.js.LICENSE": "/control-de-gastos/static/js/2.5bb3008c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.385ccf36.js",
+    "static/js/2.5bb3008c.chunk.js",
+    "static/css/main.61c744dc.chunk.css",
+    "static/js/main.137498a6.chunk.js"
+  ]
+}
