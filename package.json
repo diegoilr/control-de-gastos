@@ -2,7 +2,7 @@
   "name": "presupuesto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/diegoilr/controldegastos",
+  "homepage": "http://diegoilr.github.io/control-de-gastos",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
